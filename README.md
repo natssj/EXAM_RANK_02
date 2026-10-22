@@ -66,6 +66,8 @@
 @@  [ ] ft_list_foreach                                                    @@
 ```
 
+## Repaso
+
 ```diff
 @@ ─────────────────────── comandos ─────────────────────── @@
 +  examshell          → arranca el examen
