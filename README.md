@@ -4,16 +4,6 @@
   <img src="https://img.shields.io/badge/Exam-Rank%2002-7b2ff7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
-
-```diff
-@@  ┌──────────────────────────────────────────────────────────────┐  @@
-@@  │  nde-dieg@42madrid:~$ whoami                                 │  @@
-+   │  > login ....... nde-dieg                                    │
-+   │  > campus ...... 42 Madrid                                   │
-+   │  > objetivo .... Exam Rank 02  ██████████████░░░░░░  70%     │
-@@  └──────────────────────────────────────────────────────────────┘  @@
-```
-
 ---
 
 ```
@@ -88,8 +78,6 @@
 ```
 ---
 
-## Chuleta de la examshell
-
 ```diff
 @@ ─────────────────────── comandos ─────────────────────── @@
 +  examshell          → arranca el examen
@@ -99,11 +87,10 @@
 
 @@ ─────────────────────── antes de grademe ─────────────── @@
 !  cc -Wall -Wextra -Werror *.c && ./a.out "test"
-!  ./a.out | cat -e          → ver los \n y espacios ocultos
 !  git add . && git commit -m "done" && git push
 ```
 
-## Errores que suspenden
+## Errores
 
 ```diff
 -  ✗ Olvidar el '\n' final (o ponerlo cuando no toca)
