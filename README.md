@@ -4,20 +4,15 @@
   <img src="https://img.shields.io/badge/Exam-Rank%2002-7b2ff7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
----
 
 ```
    ┌──────────┐      ┌──────────┐      ┌──────────┐      ┌──────────┐
-   │ LEVEL 1  │ ───▶ │ LEVEL 2  │ ───▶ │ LEVEL 3  │ ───▶ │ LEVEL 4  │ ───▶ 100
+   │ LEVEL 1  │ ──▶ │ LEVEL 2   │ ──▶ │ LEVEL 3  │ ──▶ │ LEVEL 4  │ ───▶ 100
    │  25 pts  │      │  25 pts  │      │  25 pts  │      │  25 pts  │
    └──────────┘      └──────────┘      └──────────┘      └──────────┘
       strings         strings +          aritmética        malloc, listas
       básicos         bits, atoi         argv, rangos      split, recursión
 ```
-
----
-
-## Level 1
 
 ```diff
 +  _    _____   _____ _      _
@@ -30,8 +25,6 @@
 +  [ ] ft_putstr         [ ] ft_swap           [ ] rotone
 +  [ ] repeat_alpha      [ ] search_and_replace [ ] ulstr
 ```
-
-## Level 2
 
 ```diff
 !  _    _____   _____ _      ___
@@ -48,8 +41,6 @@
 !  [ ] last_word         [ ] wdmatch
 ```
 
-## Level 3
-
 ```diff
 @@  _    _____   _____ _      ____                                       @@
 @@ | |  | __\ \ / / __| |    |__ /                                       @@
@@ -63,8 +54,6 @@
 @@  [ ] lcm               [ ] str_capitalizer   [ ] tab_mult             @@
 ```
 
-## Level 4
-
 ```diff
 -  _    _____   _____ _      _ _
 - | |  | __\ \ / / __| |    | | |
@@ -76,7 +65,6 @@
 -  [ ] ft_itoa           [ ] rev_wstr          [ ] sort_list
 -  [ ] ft_list_foreach
 ```
----
 
 ```diff
 @@ ─────────────────────── comandos ─────────────────────── @@
@@ -100,5 +88,3 @@
 -  ✗ Olvidar el push → para la moulinette no existe
 +  ✓ Lee el subject DOS veces y prueba los ejemplos exactos
 ```
-
----
