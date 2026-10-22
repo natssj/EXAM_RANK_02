@@ -1,11 +1,4 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/42-Madrid-000000?style=for-the-badge&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/login-nde--dieg-ff00cc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Exam-Rank%2002-7b2ff7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="exam_banner.svg" alt="EXAM RANK 02" width="100%" />
 </p>
 
@@ -19,9 +12,6 @@
 ```
 
 ---
-
-## 🗺️ Mapa del examen
-
 ```
    ┌──────────┐      ┌──────────┐      ┌──────────┐      ┌──────────┐
    │ LEVEL 1  │ ───▶ │ LEVEL 2  │ ───▶ │ LEVEL 3  │ ───▶ │ LEVEL 4  │ ───▶ 🏆 100
@@ -31,7 +21,7 @@
       básicos         bits, atoi         argv, rangos      split, recursión
 ```
 
-## 🟢 Level 1
+## Level 1
 
 ```diff
 +  _    _____   _____ _      _
@@ -45,7 +35,7 @@
 +  [ ] repeat_alpha      [ ] search_and_replace [ ] ulstr
 ```
 
-## 🟠 Level 2
+## Level 2
 
 ```diff
 !  _    _____   _____ _      ___
@@ -62,7 +52,7 @@
 !  [ ] last_word         [ ] wdmatch
 ```
 
-## 🟣 Level 3
+## Level 3
 
 ```diff
 @@  _    _____   _____ _      ____                                       @@
@@ -77,7 +67,7 @@
 @@  [ ] lcm               [ ] str_capitalizer   [ ] tab_mult             @@
 ```
 
-## 🔴 Level 4
+## Level 4
 
 ```diff
 -  _    _____   _____ _      _ _
