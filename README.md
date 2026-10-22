@@ -7,7 +7,7 @@
 
 ```
    ┌──────────┐      ┌──────────┐      ┌──────────┐      ┌──────────┐
-   │ LEVEL 1  │ ───▶ │ LEVEL 2  │ ───▶ │ LEVEL 3  │ ───▶ │ LEVEL 4  │ ───▶ 100
+   │ LEVEL 1  │ ──▶ │ LEVEL 2   │ ──▶ │ LEVEL 3  │ ──▶ │ LEVEL 4  │ ───▶ 100
    │  25 pts  │      │  25 pts  │      │  25 pts  │      │  25 pts  │
    └──────────┘      └──────────┘      └──────────┘      └──────────┘
       strings         strings +          aritmética        malloc, listas
